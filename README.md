@@ -1,6 +1,6 @@
-# ui_tuts_cards
+# Tinder Like Card Swapping using Flutter
 
-Flutter UI - Cards (Youtube Tutorial Example)
+Flutter Tinder Match
 
 ## Getting Started
 
